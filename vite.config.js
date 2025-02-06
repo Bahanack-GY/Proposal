@@ -16,5 +16,9 @@ export default defineConfig(({ command, mode }) => {
                 inject: { data: { id: env.VITE_APP_GOOGLE_VERIFICATION } },
             }),
         ],
+        server: {
+            host: '0.0.0.0',
+            port: 3000,
+        },
     };
 });
