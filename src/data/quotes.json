@@ -2,34 +2,34 @@
   "qoutes": [
     {
       "id": "Q2",
-      "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
-      "image": "/images/image-03.webp"
+      "text": "Tu as été une source de force et de soutien pour moi. Je suis heureux(se) que tu fasses partie de ma vie",
+      "image": "/images/image-3.PNG"
     },
     {
       "id": "Q3",
-      "text": "You make me smile so easily. Can you be there, to do it forever?",
-      "image": "/images/image-02.webp"
+      "text": "Tu me fais sourire si facilement. Peux-tu être là pour le faire pour toujours ?",
+      "image": "/images/image-2.PNG"
     },
     {
       "id": "Q4",
-      "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
-      "image": "/images/image-01.webp"
+      "text": "J'étais seul(e) dans la vie, mais quand tu es entré(e) dans ma vie, tu y as apporté des couleurs et l'as peinte avec de magnifiques teintes",
+      "image": "/images/image-1.JPG"
     },
     {
       "id": "Q5",
-      "text": "Your absence is stronger to me than the presence of thousands of other people",
-      "image": "/images/image-07.webp"
+      "text": "Ton absence est plus forte pour moi que la présence de milliers d'autres personnes",
+      "image": "/images/image-7.JPG"
     },
     {
       "id": "Q6",
-      "text": "I fell in love with you not for how you look, just for who you are",
-      "image": "/images/image-06.webp"
+      "text": "Je suis tombé(e) amoureux(se) de toi, non pas pour ton apparence, mais pour qui tu es",
+      "image": "/images/image-6.JPG"
     }
   ],
   "propose": {
     "id": "finished",
-    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you",
-    "subtext": "That's all I will wait for your reply",
-    "image": "/images/image-04.webp"
+    "text": "Je ne sais pas ce que la vie peut t’apporter. Je ne sais pas si les rêves deviennent réalité. Je ne sais pas ce que l’amour peut accomplir. Mais je suis sûr(e) d’une chose : je t’aime",
+    "subtext": "C'est tout. J’attendrai ta réponse",
+    "image": "/images/image-4.PNG"
   }
 }

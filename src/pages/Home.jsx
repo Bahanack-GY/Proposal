@@ -17,16 +17,7 @@ const Home = ({ className = '' }) => (
                         </p>
 
                         <ProposeForm className="hero_text-form mt-4 mt-md-5" />
-                        <p className="hero_credit">
-                            developed by{' '}
-                            <a
-                                href="https://tonmoydeb.com"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                @tonmoydeb
-                            </a>
-                        </p>
+                       
                     </div>
                 </Col>
                 <Col md={5} className="hero_media-wrapper">
