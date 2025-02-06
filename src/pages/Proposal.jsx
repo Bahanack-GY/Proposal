@@ -74,7 +74,7 @@ const Proposal = ({ className = '' }) => {
 
                             {currentText.id !== 'finished' ? (
                                 <Button variant="danger" onClick={handleClick}>
-                                    {texts.length ? 'Next' : 'Continue'}
+                                    {texts.length ? 'Et aussi...' : 'Continue'}
                                 </Button>
                             ) : (
                                 ''
